@@ -112,7 +112,8 @@ img{
 .Vision-Future{
     display: flex;
     margin-left: 160px;
-    /* justify-content: space-between; */
+
+     
     
     
 }
@@ -120,6 +121,7 @@ img{
 
     width: 62px;
     height: 62px;
+    padding: 0;
      
 
 }
