@@ -16,7 +16,8 @@
 }
 /* nav style */
 .main{
-    width: 100%
+    width: 100%;
+    
 }
 .nav{
     display: flex;
@@ -80,10 +81,86 @@
 }
 
 img{
-    /* padding-right: 20px; */
+    
     width: 300px;
-
+    padding-left: 80px;
 }
 
+/* The Vision of Future style  */
 
+.Vision-Future{
+    display: flex;
+    
+}
+.vision-mini-part{
 
+    margin: 100px;
+    
+}
+
+.vision-title-part{
+    color: rgb(14, 14, 14);
+    font-size: 40px;
+    font-weight: 700;
+    padding: 120;
+}
+.vision-description{
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+}
+.Vision-Future{
+    display: flex;
+    margin-left: 160px;
+    /* justify-content: space-between; */
+    
+    
+}
+.vision-icon{
+
+    width: 62px;
+    height: 62px;
+     
+
+}
+.vision-title{
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 20px;
+    font-weight: 700;
+}
+.vision-description{
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    margin: 12px 0px;
+}
+.vision-1{
+    box-sizing: border-box;
+    border-radius: 16px;
+    background: rgba(84, 144, 245, 0.2);
+    padding: 32px;
+    margin-right: 24px;
+    
+}
+.vision-2{
+    box-sizing: border-box;
+    border-radius: 16px;
+    background: rgb(198, 228, 214);
+    padding: 32px;
+    margin-right: 24px;
+}
+.vision-3{
+    box-sizing: border-box;
+    border-radius: 16px;
+    background: rgb(247, 235, 207);
+    padding: 32px;
+    margin-right: 160px;
+}
+.vision-btn{
+    border-radius: 8px;
+    background: rgb(84, 144, 245);
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 600;
+    padding: 11px 20px 11px 20px;
+}
